@@ -11,4 +11,5 @@ __pycache__/
 *.sqlite3
 *.txt
 *.html
-index_file/
+index_files/
+
